@@ -1,6 +1,9 @@
 - entry_name: "通道"
   event_name: "前人藏宝，后人生财"
   options:
+    - option_name: "离开"
+      desc: "压力值+20"
+
     - option_name: "看向妮可"
       desc: "花费400齿轮硬币，获得1枚鸣徽"
 
